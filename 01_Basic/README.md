@@ -46,4 +46,4 @@
 - 10. [HPCA'24] Agile-DRAM (Will be updated later!)
 
 # Other useful sites
-- [```CS305: Computer Architecture```](https://www.cse.iitb.ac.in/~biswa/courses/CS305/schedule.html)
+- [```[SAFARI'23] Computer Architecture - Fall 2023```](https://safari.ethz.ch/architecture/fall2023/doku.php?id=schedule)
