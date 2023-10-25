@@ -43,6 +43,7 @@
 - 7. [```[HPCA'16] LISA```](https://ieeexplore.ieee.org/abstract/document/7446095)
 - 8. [```[ISCA'14] PARA```](https://dl.acm.org/doi/abs/10.1145/2678373.2665726) **Rowhammer Basics**
 - 9. [```[SAFARI'23] Rowhammer Story```](https://safari.ethz.ch/architecture_seminar/fall2023/lib/exe/fetch.php?media=onur-comparchseminar-fall2023-lecture3-rowhammerstory-afterlecture.pptx)
+- 10. [```[HPCA'24] Agile-DRAM (Will be updated later!)```]
 
 # Other useful sites
 - [```CS305: Computer Architecture```](https://www.cse.iitb.ac.in/~biswa/courses/CS305/schedule.html)
