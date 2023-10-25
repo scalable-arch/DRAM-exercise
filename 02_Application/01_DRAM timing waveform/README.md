@@ -12,6 +12,13 @@
 - Understand the DRAM timing parameter basics
 - Understand the bandwidth difference depending on the row hit/miss in a bank under the **Open page policy**
 
+# Overview
+![DRAM timing waveform](https://github.com/scalable-arch/DRAM-exercise/blob/main/02_Application/01_DRAM%20timing%20waveform/DRAM%20timing%20waveform.png)
+
+# To do
+- Create the DRAM timing waveform based on the given conditions (tCCD, tRAS ...)
+- Ensure it aligns with the DRAM timing parameter specifications
+
 # Getting Started
 - The details are elaborated in **DRAM Timing waveform.pptx**
 
@@ -21,3 +28,7 @@
 # Answer
 - **Solution code**
 - Copy this code into the WaveDrom Editor
+
+# Hint
+- **AL** is an 'Additive-Latency' and **RL = AL + CL**
+- Taking into account the definition of timing parameters
