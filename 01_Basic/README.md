@@ -31,7 +31,7 @@
 - 8. [```DRAM Timing Constraint```](https://www.youtube.com/watch?v=7STOekOQ_sM&t=830s)
     
  # 2_JEDEC Standards
-- To do: Organize DRAM Key Timing Parameters (**nRL (Read latency), tRCD, tRP**, tCCD, tRRD, tFAW, tWTR_S, tWTR_L)
+- To do: Organize DRAM Key Timing Parameters (**nCL (CAS Latency), tRCD, tRP**, tCCD, tRRD, tFAW, tWTR_S, tWTR_L)
   
  # 3_Related papers
 - 1. [```[ISCA'12] SALP```](https://dl.acm.org/doi/abs/10.1145/2366231.2337202)
