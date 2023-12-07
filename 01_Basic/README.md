@@ -29,6 +29,9 @@
 - 6. [```DIMM Organization```](https://youtu.be/Mhqi70OPW0o)
 - 7. [```DRAM Organization```](https://www.youtube.com/watch?v=HWw-6SY6VBs&t=955s)
 - 8. [```DRAM Timing Constraint```](https://www.youtube.com/watch?v=7STOekOQ_sM&t=830s)
+
+# 2_Memory System
+- 1. [```PDF ```](https://books.google.co.kr/books?id=SrP3aWed-esC&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
     
  # 2_JEDEC Standards
 - To do: Organize DRAM Key Timing Parameters (**nCL (CAS Latency), tRCD, tRP**, tCCD, tRRD, tFAW, tWTR_S, tWTR_L)
