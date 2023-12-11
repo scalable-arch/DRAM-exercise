@@ -31,12 +31,16 @@
 - 8. [```DRAM Timing Constraint```](https://www.youtube.com/watch?v=7STOekOQ_sM&t=830s)
 
 # 2_Memory System
-- 1. [```PDF ```](https://books.google.co.kr/books?id=SrP3aWed-esC&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+- [```PDF```](https://books.google.co.kr/books?id=SrP3aWed-esC&printsec=copyright&redir_esc=y#v=onepage&q&f=false)
+- Chapter 7. Overview of DRAMs
+- Chapter 8, 10. DRAM Device Organization & DRAM Memory System Organization
+- Chapter 11, 12.3 Basic DRAM Memory-Access Protocol & Modern-Commodity DRAM Devices
+- Chapter 13. DRAM Memory Controller
     
- # 2_JEDEC Standards
+ # 3_JEDEC Standards
 - To do: Organize DRAM Key Timing Parameters (**nCL (CAS Latency), tRCD, tRP**, tCCD, tRRD, tFAW, tWTR_S, tWTR_L)
   
- # 3_Related papers
+ # 4_Related papers
 - 1. [```[ISCA'12] SALP```](https://dl.acm.org/doi/abs/10.1145/2366231.2337202)
 - 2. [```[HPCA'13] Tiered-Latency DRAM```](https://ieeexplore.ieee.org/abstract/document/6522354)
 - 3. [```[ISCA'13] Reducing Memory Access Latency with Asymmetric DRAM Bank Organizations```](https://dl.acm.org/doi/abs/10.1145/2485922.2485955)
