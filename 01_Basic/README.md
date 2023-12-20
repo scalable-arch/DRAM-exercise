@@ -1,4 +1,4 @@
-# DRAM Basics
+![image](https://github.com/scalable-arch/DRAM-exercise/assets/62287136/8f13b5c7-091a-491e-bfdb-759d2f2c9844)# DRAM Basics
 
 # Author
 
@@ -70,3 +70,6 @@
 
 # Other useful sites
 - [```[SAFARI'23] Computer Architecture - Fall 2023```](https://safari.ethz.ch/architecture/fall2023/doku.php?id=schedule)
+
+# Refresh basics
+
