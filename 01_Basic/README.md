@@ -66,7 +66,7 @@
 - 23. [```[MICRO'20] FIGARO```](https://ieeexplore.ieee.org/abstract/document/9251865)
 - 24. [```[MICRO'22] HIRA```](https://ieeexplore.ieee.org/abstract/document/9923850?casa_token=RWo-EihE49UAAAAA:b20nJDYcVsRLXeQNo9eDCJgHEiVbaTCTHx0TxwIvkzR7-XOAEptGSzdVAXVeXOS6wVTNlmUGeXA)
 - 25. [```[SC'13] Exploring DRAM organization```](https://dl.acm.org/doi/abs/10.1145/2503210.2503215?casa_token=3763j-NWAuMAAAAA:dFw4Dw1bxdi7KkmbZpy0XOdvd4R1hvBkC90wL34giW_DCFdmkYNrs9OxHBbLEMc5c1XqmNJc_U_Yiw) 
-- 26. [```[HPCA'24] Agile-DRAM```] **(Will be updated later!)**
+- 26. [```[HPCA'24] Agile-DRAM```](https://ieeexplore.ieee.org/abstract/document/10476434)
 
 # Other useful sites
 - [```[SAFARI'23] Computer Architecture - Fall 2023```](https://safari.ethz.ch/architecture/fall2023/doku.php?id=schedule)
