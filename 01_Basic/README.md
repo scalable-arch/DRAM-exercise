@@ -72,4 +72,9 @@
 - [```[SAFARI'23] Computer Architecture - Fall 2023```](https://safari.ethz.ch/architecture/fall2023/doku.php?id=schedule)
 
 # Refresh basics
-![Refrsh](https://github.com/scalable-arch/DRAM-exercise/blob/main/01_Basic/Refresh.PNG)
+![Refresh](https://github.com/scalable-arch/DRAM-exercise/blob/main/01_Basic/Refresh.PNG)
+
+# Refresh Tables (DDR, LPDDR)
+![Auto Refresh](https://github.com/scalable-arch/DRAM-exercise/blob/main/01_Basic/Auto_Refresh.png)
+
+![Self Refresh](https://github.com/scalable-arch/DRAM-exercise/blob/main/01_Basic/Self_Refresh.png)
